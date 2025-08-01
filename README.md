@@ -2,6 +2,10 @@
 
 Ein modernes, elegantes und vollständig responsives Linktree-Template mit schönem Design und interaktiven Elementen.
 
+## 📸 Preview
+
+![Sleek Linktree Template Preview](screenshot.png)
+
 ![Template Preview](https://img.shields.io/badge/Template-Linktree-blue)
 ![Version](https://img.shields.io/badge/Version-1.0-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
